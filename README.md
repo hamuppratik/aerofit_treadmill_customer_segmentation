@@ -1,4 +1,5 @@
 Aerofit Customer Segmentation with Insights and Recommendations:
+- Aerofit is India's leading fitness equipment brand that manufactures residential and commercial fitness machines including treadmills, elliptical trainers, etc.
 
 In this project, I conducted a comprehensive analysis for Aerofit, focusing on customer demographics and behavior patterns across various treadmill models. I employed statistical techniques, including Correlation, Univariate, Bivariate, and Multivariate analysis, as well as Conditional Probabilities, to gain insights and effectively segment customer groups.
 
